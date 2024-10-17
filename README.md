@@ -18,4 +18,7 @@ I am Sweta Kumari .<br>"A CSE Undergraduate"<br>Currently studying in Siliguri I
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/sweta-04/sweta-04/blob/output/github-snake-dark.svg)
+
+
